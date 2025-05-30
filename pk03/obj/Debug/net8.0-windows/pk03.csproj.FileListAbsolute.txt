@@ -1,0 +1,17 @@
+C:\Users\aprie\source\repos\pk03\pk03\bin\Debug\net8.0-windows\pk03.exe
+C:\Users\aprie\source\repos\pk03\pk03\bin\Debug\net8.0-windows\pk03.deps.json
+C:\Users\aprie\source\repos\pk03\pk03\bin\Debug\net8.0-windows\pk03.runtimeconfig.json
+C:\Users\aprie\source\repos\pk03\pk03\bin\Debug\net8.0-windows\pk03.dll
+C:\Users\aprie\source\repos\pk03\pk03\bin\Debug\net8.0-windows\pk03.pdb
+C:\Users\aprie\source\repos\pk03\pk03\obj\Debug\net8.0-windows\pk03.Form1.resources
+C:\Users\aprie\source\repos\pk03\pk03\obj\Debug\net8.0-windows\pk03.Properties.Resources.resources
+C:\Users\aprie\source\repos\pk03\pk03\obj\Debug\net8.0-windows\pk03.csproj.GenerateResource.cache
+C:\Users\aprie\source\repos\pk03\pk03\obj\Debug\net8.0-windows\pk03.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aprie\source\repos\pk03\pk03\obj\Debug\net8.0-windows\pk03.AssemblyInfoInputs.cache
+C:\Users\aprie\source\repos\pk03\pk03\obj\Debug\net8.0-windows\pk03.AssemblyInfo.cs
+C:\Users\aprie\source\repos\pk03\pk03\obj\Debug\net8.0-windows\pk03.csproj.CoreCompileInputs.cache
+C:\Users\aprie\source\repos\pk03\pk03\obj\Debug\net8.0-windows\pk03.dll
+C:\Users\aprie\source\repos\pk03\pk03\obj\Debug\net8.0-windows\refint\pk03.dll
+C:\Users\aprie\source\repos\pk03\pk03\obj\Debug\net8.0-windows\pk03.pdb
+C:\Users\aprie\source\repos\pk03\pk03\obj\Debug\net8.0-windows\pk03.genruntimeconfig.cache
+C:\Users\aprie\source\repos\pk03\pk03\obj\Debug\net8.0-windows\ref\pk03.dll
